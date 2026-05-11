@@ -13,7 +13,7 @@ export default async function Home() {
   return (
     <div>
       {/* Hero Section */}
-      <section className="bg-gray-50 py-16 px-4 md:py-24">
+      <section className="bg-black py-16 px-4 md:py-24">
         <div className="max-w-7xl mx-auto">
           <div className="flex flex-col md:flex-row items-center gap-12">
             {/* Left Content */}
